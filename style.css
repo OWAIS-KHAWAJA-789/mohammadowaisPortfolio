@@ -8,7 +8,6 @@
     height:100vh;
     background: url('heroImage.jpeg');
     background-size:cover;
-    position:relative;
     background-position: center;
 }
 /* text css above hero image*/
