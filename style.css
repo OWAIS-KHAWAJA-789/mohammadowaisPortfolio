@@ -6,7 +6,7 @@
 @media only screen and (max-width: 766px) {
 .bgimage {
     height:100vh;
-    background: url('heroImage.jpeg');
+    background: url('media.png');
     background-size:cover;
     background-position: center;
 }
