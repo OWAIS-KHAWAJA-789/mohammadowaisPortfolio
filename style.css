@@ -3,9 +3,8 @@
     background-color: black;
 }
 /* Small devices (mobile/tablets, 767px and below) */
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: 768px) {
 .bgimage {
-    height:100vh;
     background: url('media.png');
     background-size:cover;
     background-position: center;
