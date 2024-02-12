@@ -8,6 +8,7 @@
     background: url('media.png') !important;
     background-size:cover;
     background-position: center;
+    background-repaet: no-repeat;
 }
 }
 /* hero background image */
